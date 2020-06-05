@@ -1,0 +1,4 @@
+(test
+  (name test)
+  (libraries Mongoc alcotest ctypes ctypes.foreign stdio re)
+)
